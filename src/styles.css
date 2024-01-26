@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-image: url("../src/assets/imagenes/fondo.jpg");
+  background-size: 45% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+}
+
+.btn-right {
+  float: right;
+}
+
